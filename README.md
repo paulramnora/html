@@ -6,9 +6,8 @@ HTML codes
 
 -----
 
-HTML, is the 'base' language used to create web pages.  
+Learning the art of *web development* involves learning, at least, 3 different languages:-  
 
-In order to more fully understand the art of *web develoment*...;  
-then, you will need to know 2 others languages, as well:-       
-- CSS/Cascading Style Sheet Code (used to add 'decorative' effects: colours/fonts/sizes/positioning/-etc.)   
-- JS/Javascript (used to add 'interactivity' to web pages)  
+1. HTML/HyperText MarkUp Language (used to add underlying structure to the web page/as well as, semantic content)    
+2. CSS/Cascading Style Sheet Code (used to add 'decorative' effects to the web page, including: colours/fonts/sizes/positioning/-etc.)   
+3. JS/Javascript (used to add 'interactivity' to web pages)  
